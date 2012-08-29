@@ -10,8 +10,8 @@ hours coding to Microsoft's spec, and it seems to work!
 
 The relevant references I could find were Microsoft's official spec, and an unofficial 
 analysis from Lluis Sanchez Gual, a contributor to the Mono project:
- - http://msdn.microsoft.com/en-us/library/cc236844(PROT.10).aspx
- - http://primates.ximian.com/~lluis/dist/binary_serialization_format.htm
+* http://msdn.microsoft.com/en-us/library/cc236844(PROT.10).aspx
+* http://primates.ximian.com/~lluis/dist/binary_serialization_format.htm
 
 This is simple demo code, not fit for any particular purpose, etc etc. I'm releasing it 
 under the Modified (3-clause) BSD license, so you can do just about anything with it as 
@@ -30,5 +30,5 @@ tao@klerks.biz
 
 ChangeLog:
 
-2010-06: Original demo code
-2011-11: Fix to "decimal" handling, github project (thanks Ian Wright!)
+* 2010-06: Original demo code
+* 2011-11: Fix to "decimal" handling, github project (thanks Ian Wright!)
